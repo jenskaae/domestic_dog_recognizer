@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/intermittent/
+models/
+
+*.pt
+*.pth
+*.pkl
+
+.DS_Store
+Thumbs.db
+.vscode/
